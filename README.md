@@ -1,4 +1,4 @@
 # Menace-Recall
 A Risk quantifier
 Uses FAIR Model as base
-Has an option to cluib models for hybrid approach
+Has an option to club models for hybrid approach
